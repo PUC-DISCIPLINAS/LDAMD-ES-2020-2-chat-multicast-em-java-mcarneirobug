@@ -9,6 +9,10 @@
 4. O cliente deve ser capaz de enviar mensagens para a sala.
 5. O cliente deve ser capaz de sair da sala de bate papo.
 
+## Observações
+
+* Foi definido um ip fixo e uma porta fixa para que não tenha que ser digitado pelos usuários ao ingressarem no bate papo, devido que, o servidor deve gerenciar apenas uma sala de bate papo e para facilitar na utilização. O usuário deve apenas informar o seu nome e já vai estar apto para conversar no chat e caso ele queira sair do chat, basta que ele digite no console "(Sair/sair)" que será finalizado o socket para aquele usuário.
+
 ## Aluno
 
 * Matheus Santos Rosa Carneiro - 613414 - [mcarneirobug](https://github.com/mcarneirobug)
@@ -16,8 +20,6 @@
 ## Professor responsável
 
 * Hugo Bastos de Paula - [hugodepaula](https://github.com/hugodepaula)
-
-
 
 ## Ferramenta para desenvolvimento
 [![Work in Repl.it](https://classroom.github.com/assets/work-in-replit-14baed9a392b3a25080506f3b7b6d57f295ec2978f6f33ec97e36a161684cbe9.svg)](https://classroom.github.com/online_ide?assignment_repo_id=2967555&assignment_repo_type=AssignmentRepo)
