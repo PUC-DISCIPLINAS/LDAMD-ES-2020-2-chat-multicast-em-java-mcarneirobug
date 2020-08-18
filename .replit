@@ -1,3 +1,2 @@
 language = "java"
-javac *.java
-java Main
+run = "javac Main.java && java Main"
