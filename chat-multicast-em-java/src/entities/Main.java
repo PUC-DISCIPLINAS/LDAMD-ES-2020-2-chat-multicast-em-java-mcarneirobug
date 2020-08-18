@@ -34,9 +34,10 @@ public class Main {
 			Thread t = new Thread(new lerThread(mSocket, grupo, port));
 			t.start();
 
+			System.out.println("\nCaso deseje sair, digite (sair/Sair)");
 			// envia para o grupo atual
 			System.out.println("\nComece a digitar suas mensagens...\n");
-
+			
 			while (true) {
 				String mensagem = sc.nextLine();
 				// se o usuário digitar Sair fecha o socket
