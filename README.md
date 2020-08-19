@@ -13,6 +13,8 @@
 
 * Na aplicação swing para a sua utilização basta que o cliente defina seu nome e clique no botão "entrar". Feito isso, o botão de "enviar" será habilitado para que ele envie mensagens para a sala, então, basta quee ele digite a mensagem e clique no botão "enviar" para se comunicar com quem estiver conectado. O ip e a porta foram definidos automaticamente e caso ele queira se desconectar da sala, basta clicar no botão "sair do chat".
 
+* No Repl.it aplicações com interface aparentemente não funcionam. Devido a isso, está disponível o repositório do código.
+
 ## Aluno
 
 * Matheus Santos Rosa Carneiro - 613414 - [mcarneirobug](https://github.com/mcarneirobug)
