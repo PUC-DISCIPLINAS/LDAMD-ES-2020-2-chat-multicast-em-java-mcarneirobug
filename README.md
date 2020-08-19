@@ -13,6 +13,8 @@
 
 * Foi definido um ip fixo e uma porta fixa para que não tenha que ser digitado pelos usuários ao ingressarem no bate papo, devido que, o servidor deve gerenciar apenas uma sala de bate papo e para facilitar na utilização. O usuário deve apenas informar o seu nome e já vai estar apto para conversar no chat e caso ele queira sair do chat, basta que ele digite no console "(Sair/sair)" que será finalizado o socket para aquele usuário.
 
+* Na aplicação swing para a sua utilização basta que o cliente defina seu nome e clique no botão "entrar". Feito isso, o botão de "enviar" será habilitado para que ele envie mensagens para a sala, então, basta quee ele digite a mensagem e clique no botão "enviar" para se comunicar com quem estiver conectado. O ip e a porta foram definidos automaticamente e caso ele queira se desconectar da sala, basta clicar no botão "sair do chat".
+
 ## Aluno
 
 * Matheus Santos Rosa Carneiro - 613414 - [mcarneirobug](https://github.com/mcarneirobug)
